@@ -389,6 +389,13 @@ logEach( 'x1[%d] = %.2f; x2[%d] = %.2f', idx, x1, idx, x2 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/rayleigh`][@stdlib/random/base/rayleigh]</span><span class="delimiter">: </span><span class="description">Rayleigh distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/rayleigh`][@stdlib/random/array/rayleigh]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Rayleigh distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -432,8 +439,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-strided-rayleigh.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-strided-rayleigh
 
-[test-image]: https://github.com/stdlib-js/random-strided-rayleigh/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/random-strided-rayleigh/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/random-strided-rayleigh/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-strided-rayleigh/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-strided-rayleigh/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-strided-rayleigh?branch=main
@@ -470,6 +477,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/base/rayleigh]: https://github.com/stdlib-js/random-base-rayleigh
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/rayleigh]: https://github.com/stdlib-js/random-array-rayleigh
+
+<!-- </related-links> -->
 
 </section>
 
